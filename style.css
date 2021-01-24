@@ -184,3 +184,10 @@ footer .section .content {
 footer .section .content span {
   margin: 0.5rem 0;
 }
+footer .section .content span a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+footer .section .content span a:hover {
+  color: #a8a8ad;
+}
